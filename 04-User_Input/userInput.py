@@ -1,19 +1,19 @@
 #String
-# name = input("Enter the nam : ")
-# print(name)
+name = input("Enter the nam : ")
+print(name)
 
-# Full_Name = input("give your full name : ")
-# print(Full_Name)
+Full_Name = input("give your full name : ")
+print(Full_Name)
 
 # #Integer
 
-# age = int(input("Enter your age : "))
-# print(age)
+age = int(input("Enter your age : "))
+print(age)
 
 #character
 
-# char = input("Enter character : ")
-# print(char)
+char = input("Enter character : ")
+print(char)
 
 blood_group = input("Enter your blood group : ")
 print(blood_group)
