@@ -1,5 +1,5 @@
 #String
-name = input("Enter the nam : ")
+name = input("Enter the name : ")
 print(name)
 
 Full_Name = input("give your full name : ")
