@@ -1,0 +1,9 @@
+return the output true if any one of the condition is true otherwise it gives false.
+
+
+               A              B              Output
+
+case 1 ->      true(1)       true(1)         true(1)
+case 2 ->      true(1)       false(0)        true(1)
+case 3 ->      false(0)      true(1)         true(1)
+case 4 ->      false(0)      false(0)        false(0)

@@ -1,0 +1,12 @@
+Operands ---> A, B, C, a, b, C
+Operators ---> +, -, *, / 
+
+in logical operators ---> and / &, or |, not !
+
+A              B              Output
+
+true(1)       true(1)         true(1)
+true(1)       false(0)        false(0)
+false(0)      true(1)         false(0)
+false(0)      false(0)        false(0)
+
