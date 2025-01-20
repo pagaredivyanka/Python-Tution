@@ -1,0 +1,17 @@
+Type Conversion - 
+definition -> 
+    Python automatically converts one data type to another data type without Manual/explicit interference. Also called Implicit type conversion(by computer it-self).
+
+WHy used ?
+    To simplify operations between differnt data types where conversion is safe (there is no data loss) and predictable. 
+
+    integer = 100 want to convert it into float = 100.00  # there is no data loss.
+
+-> (this won't happen in type conversion we need type casting for this )float = 65.87 convert it to integer = 65
+
+Types of Type Conversion -
+
+1.  Integer(int) to Float(float)
+    -> integer = 100 want to convert it into float = 100.00  # there is no data loss.
+
+2.  Float(float) to Complex() 
