@@ -1,0 +1,18 @@
+Type Casting
+
+Definition -> The process where you explicitly convert a value from one type to another using python's built-in functions 
+
+Types ->
+1. int()  
+use this funtion to convert into integer. 
+example -> print(int(2.5))
+
+
+2. float()  
+use to convert into float.
+ex. -> print(float(34))
+
+3. str() ---> used for string 
+use to convert into string.
+ex. -> print(str(34))
+
