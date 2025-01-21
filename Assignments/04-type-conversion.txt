@@ -1,0 +1,27 @@
+
+Here are some easy practice questions for type conversion and casting:
+
+Practice Questions
+1. Implicit Conversion
+Add 5 (an integer) to 2.5 (a float). What will be the type of the result?
+2. Explicit Conversion (Type Casting)
+Convert the string "100" into an integer and add it to 50. Print the result.
+Convert 3.14 (a float) to an integer. What happens to the decimal part?
+3. Integer to Float Conversion
+Write a program to convert 10 (an integer) to a float.
+4. Float to Integer Conversion
+Convert 99.99 (a float) to an integer. Print the result.
+5. String to Integer Conversion
+Convert the string "1234" into an integer and multiply it by 2.
+6. Numeric to String Conversion
+Take an integer 7 and a float 3.5. Convert both to strings and concatenate them with a space.
+7. Boolean Conversion
+What will be the integer value of True and False if converted?
+8. Type Checking
+Use the type() function to check the type of the result for:
+Adding 10 (an integer) and 20.5 (a float).
+Converting "42" (a string) to an integer.
+9. Mixed Operations
+Divide 7 by 3 and cast the result into an integer. Print the result.
+10. Simple User Input Conversion
+Write a program that takes a number as input from the user (as a string) and converts it to an integer. Multiply it by 10 and print the result.
