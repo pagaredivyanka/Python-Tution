@@ -1,0 +1,53 @@
+           
+
+Flowchart
+           start
+             |
+             V
+        input : time 
+             |
+             V
+if time >= 5 AM or time <= 12 PM
+             |
+             V
+    Print "Good Morning"
+             |
+             V
+         End/Stop
+
+
+Algorithm : 
+
+step 1 : start
+             
+step 2 : take time as number input 
+             
+step 3 : check if time is greater than 5 or time lesser than 12 
+             
+step 4 : if the step 3 gives output as Yes/ True then Print "Good Morning" else print empty string
+             
+step 5 : End/Stop
+
+
+Flowchart to print A to Z.
+
+           start
+             |
+Print "A B C D ...... Z" 
+             |
+         End/Stop
+
+
+
+
+
+
+
+
+
+give starting point A and ending point Z 
+
+
+
+
+        
