@@ -1,0 +1,12 @@
+find the greater number
+
+Start                 ------------> start
+Input : Variables A, B --------------> input 
+Process : Compare A and B ------------> Process
+If A > B                           ---------> conditional statement
+    Output : "A is greater"
+else 
+    Output : "B is greater"
+
+                               ----------> if we need loop then use it otherwise just end the program
+End                     ------------> End
