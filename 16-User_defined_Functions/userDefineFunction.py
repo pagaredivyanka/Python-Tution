@@ -15,12 +15,12 @@ fun()
 # Example:
 # A simple function to add two numbers:
 
-# print(add(3,5))  # this gives error because add is user defined function and we have to define a function before it's use
+# print(add_num(3,5))  # this gives error because add is user defined function and we have to define a function before it's use
 
-def add(a, b):   # define a func
+def add_num(a, b):   # define a func
     return a + b   #--> process
 
-result = add(3, 5)  # --> function call  , we can write any variable name at the place of ()result.
+result = add_num(3, 5)  # --> function call  , we can write any variable name at the place of ()result.
 print(result)  # 8
 
 
