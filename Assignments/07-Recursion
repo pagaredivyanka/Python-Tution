@@ -1,0 +1,20 @@
+Recursion Practice Questions:
+Factorial Calculation: Write a recursive function to compute the factorial of a given number n.
+
+Fibonacci Sequence: Write a recursive function to find the nth Fibonacci number.
+
+Sum of Digits: Write a recursive function to calculate the sum of digits of a given integer n.
+
+Power Function: Implement a recursive function to compute a^b (i.e., a raised to the power of b).
+
+Reverse a String: Write a recursive function to reverse a given string.
+
+Check Palindrome: Write a recursive function to check whether a given string is a palindrome.
+
+Greatest Common Divisor (GCD): Implement a recursive function to compute the GCD of two numbers.
+
+Tower of Hanoi: Write a recursive function to solve the Tower of Hanoi problem for n disks.
+
+Count Ways to Climb Stairs: There are n stairs, and you can climb 1 or 2 steps at a time. Write a recursive function to count the number of ways to reach the nth stair.
+
+Generate All Subsets of a String: Write a recursive function to generate all subsets (power set) of a given string.
